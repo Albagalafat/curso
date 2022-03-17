@@ -1,1 +1,2 @@
 conflicto
+Modificación del archivo conflicto
